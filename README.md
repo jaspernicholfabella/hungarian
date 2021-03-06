@@ -1,8 +1,8 @@
-#**Assignment problem solver using hungarian Algorithm**
+# **Assignment problem solver using hungarian Algorithm**
 
-##**Installation**
+## **Installation**
 pip install PyQt5
 pip install munkres
 
-##**Run Software**
-python hungarian.py
+## **Run Software**
+python hungarian_index.py
